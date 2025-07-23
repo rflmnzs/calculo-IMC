@@ -39,15 +39,16 @@ Rafael, sua massa corporal está em: 34.78
 
 ## 🛠️ Tecnologias usadas
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&style=for-the-badge)
 
-![VS Code](https://img.shields.io/badge/VS%20Code-IDE-blue?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 
-![Terminal](https://img.shields.io/badge/Terminal-Bash-lightgrey?logo=gnubash&logoColor=white&style=for-the-badge)
+![Terminal](https://img.shields.io/badge/Terminal-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
 
-![Git](https://img.shields.io/badge/Git-Version%20Control-orange?logo=git&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 
-![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+
 
 ---
 
